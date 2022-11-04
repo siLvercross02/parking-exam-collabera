@@ -5,6 +5,7 @@ export default [
     entry: 0,
     parkingSlot: 0,
     occupied: false,
+    price: 0,
   },
   {
     key: 1,
@@ -12,6 +13,7 @@ export default [
     entry: 1,
     parkingSlot: 1,
     occupied: false,
+    price: 0,
   },
   {
     key: 2,
@@ -19,6 +21,7 @@ export default [
     entry: 2,
     parkingSlot: 2,
     occupied: false,
+    price: 0,
   },
   {
     key: 3,
@@ -26,6 +29,7 @@ export default [
     entry: 0,
     parkingSlot: 0,
     occupied: false,
+    price: 0,
   },
   {
     key: 4,
@@ -33,5 +37,6 @@ export default [
     entry: 0,
     parkingSlot: 1,
     occupied: false,
+    price: 0,
   },
 ];
